@@ -1,0 +1,16 @@
+name: hin
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - jupyter
+  - pip
+  - pip:
+    - kagglehub
