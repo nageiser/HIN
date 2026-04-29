@@ -1,4 +1,4 @@
-# HIN: A/B Testing for Subscription Service Churn & Conversion
+# A/B Testing for Subscription Service Churn & Conversion
 
 Code repository for the Erdös Institute UX Bootcamp, Spring 2025, Project 3.  
 **Group HIN:** Han Wang, Issrar Chamekh, and Nicholas Geiser
